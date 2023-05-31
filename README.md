@@ -1,1 +1,1 @@
-# Attention! This is still work in progress and not tested yet.
+My version of the 42 project "minitalk". Not validated yet.
